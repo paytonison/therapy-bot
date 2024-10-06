@@ -34,7 +34,7 @@ Beyond its immediate benefits, Therapy Bot is part of a larger vision to create 
 
 ## Getting Started
 ### Prerequisites
-- **OpenAI API Key**: Access to the OpenAI API is required. Obtain an API key from [this link] and configure it in the app settings.
+- **OpenAI API Key**: Access to the OpenAI API is required.
 
 ## Usage Instructions
 1. **Launching Therapy Bot**: Open the application.
