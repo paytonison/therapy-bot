@@ -1,6 +1,6 @@
 # Therapy Bot
 
-https://platform.openai.com/playground/p/5O5rmpvWM78f0JQBPSOnal2d?model=undefined&mode=chat
+https://platform.openai.com/playground/p/06SfOFCVNcWbiAxavJh4E1AK?model=undefined&mode=chat
 
 ## Overview
 Therapy Bot is a highly personalized virtual mental health assistant, designed to support individuals in navigating their mental well-being. Leveraging the OpenAI API, this therapy bot aims to bridge the gap between traditional therapy and hyper-personalized mental health support. It allows for an unprecedented level of individualized, AI-driven assistance to help users better understand their emotions, improve their mental health, and identify early signs of negative patterns.
