@@ -1,6 +1,6 @@
 # Therapy Bot - README
 
-[https://platform.openai.com/playground/p/TytX2qnbsh8SzcgiuvMjNqvC?model=undefined&mode=chat]
+https://platform.openai.com/playground/p/TytX2qnbsh8SzcgiuvMjNqvC?model=undefined&mode=chat
 
 ## Overview
 Therapy Bot is a highly personalized virtual mental health assistant, designed to support individuals in navigating their mental well-being. Leveraging the OpenAI API, this therapy bot aims to bridge the gap between traditional therapy and hyper-personalized mental health support. It allows for an unprecedented level of individualized, AI-driven assistance to help users better understand their emotions, improve their mental health, and identify early signs of negative patterns.
@@ -60,4 +60,4 @@ This project is licensed under the MIT License - see the LICENSE file for more d
 - Inspired by the vision of combining technology with compassion to truly improve the human experience.
 
 ## Contact
-For questions or feedback, please contact [paytonison] at [paytonison@icloud.com].
+For questions or feedback, please contact paytonison at paytonison@icloud.com
